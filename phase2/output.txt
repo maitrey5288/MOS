@@ -1,0 +1,23 @@
+HELLO WORLD!
+
+
+ terminated normally. No Error
+
+1 - Out of Data
+IC=1, IR=GD10, C=0, R=, TTL=4, TTC=1, TLL=1, LLC=0
+
+2 - Line Limit Exceeded
+IC=2, IR=PD10, C=0, R=, TTL=4, TTC=2, TLL=0, LLC=0HELLO WORLD!
+
+
+3 - Time Limit Exceeded
+IC=3, IR=H, C=0, R=, TTL=3, TTC=3, TLL=1, LLC=1
+
+4 - Operation Code Error
+IC=1, IR=GP10, C=0, R=, TTL=4, TTC=0, TLL=1, LLC=0
+
+5 - Operand Error
+IC=2, IR=1PD1, C=0, R=, TTL=4, TTC=2, TLL=1, LLC=0
+
+6 - Invalid Page Fault
+IC=1, IR=PD10, C=0, R=, TTL=4, TTC=0, TLL=1, LLC=0
